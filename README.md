@@ -1,3 +1,6 @@
+This is a boilerPlate that helps you skip Create-React-App and Configs for Redux, Redux-Persist, ... just clone this repo
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
